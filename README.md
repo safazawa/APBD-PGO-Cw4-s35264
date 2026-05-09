@@ -1,1 +1,1 @@
-# APBD-PGO-Cw4-s35264
+Na początku utworzyłam klasę Praconik, następnie Programista w którym nadpisałam metody z klasy Pracownik, np. obliczKosztMiesieczny i przedstawSie. Następnie utworzyłam klasę Tester w której nadpisałam te same metody co w klasie Programista oraz utworzyłam metodę specyficzną uruchomRaportTestowy. W klasie Programista metodą specyficzną było wypiszTechnologie. Kolejną klasą jest ZespolProjektowy w której m.in. utworzyłam metodę policzLacznyKoszt itd. Na sam koniec w Main dodałam nazwę zespołu i dane pracowników.
