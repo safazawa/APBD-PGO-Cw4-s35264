@@ -7,7 +7,7 @@ public class Main {
         Pracownik p1 = new Programista("001", "Wojciech", "Gola", 13.02, "Java", 6);
         Pracownik p2 = new Programista("002", "Tajłin", "Lanister", 500000.00, "C sharp", 2500);
         Pracownik p3 = new Programista("003", "Piotr", "Kogucik", 200.00, "C++", 20);
-        Pracownik p4 = new Programista("004", "Kim", "Kardaszjan", 0.06, "it's obvious it's english, da", 1);
+        Pracownik p4 = new Programista("004", "Kim", "Kardaszjan", 0.07, "it's obvious it's english, da", 1);
 
         zespol.dodajPracownika(p1);
         zespol.dodajPracownika(p2);
